@@ -36,7 +36,7 @@
     "android/",
     "!android/src/androidTest",
     "!android/src/test",
-    "CodetrixStudioCapacitorGoogleAuth.podspec"
+    "Cubaka14CapacitorGoogleAuth.podspec"
   ],
   "keywords": [
     "capacitor",

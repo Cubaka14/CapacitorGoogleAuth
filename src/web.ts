@@ -72,7 +72,7 @@ export class GoogleAuthWeb extends WebPlugin implements GoogleAuthPlugin {
       // https://github.com/CodetrixStudio/CapacitorGoogleAuth/issues/202#issuecomment-1147393785
       const clientConfig: gapi.auth2.ClientConfig & { plugin_name: string } = {
         client_id: this.options.clientId,
-        plugin_name: 'CodetrixStudioCapacitorGoogleAuth',
+        plugin_name: 'Cubaka14StudioCapacitorGoogleAuth',
       };
 
       if (this.options.scopes.length) {
